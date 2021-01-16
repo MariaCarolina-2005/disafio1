@@ -1,0 +1,8 @@
+html,body{
+    margin: 0;
+    background-color: aquamarine;
+}
+.coluna{
+    width: 45%;
+    float: left;
+}
